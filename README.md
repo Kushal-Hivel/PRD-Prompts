@@ -121,7 +121,6 @@ Please feel free to:
 *   Open an issue to discuss changes or suggest new features.
 *   Submit a pull request with your enhancements.
 
-**Repository Link:** [GitHub Repository](https://github.com/kushalBanda/AI-Engineer/tree/main/PRD%20%26%20Prompts)
 
 ---
 
